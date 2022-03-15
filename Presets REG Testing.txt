@@ -1,0 +1,19 @@
+direct light - display and galley - on
+exotic lights - not showing
+shower - no
+welcome video - no
+
+
+theatre preset:
+GTS not changing to stage ui
+
+
+
+
+flight info panel is opened afte watch airshow preset
+press ics home button in tp without closing flight info panel
+now fight info panel will not show.
+open falcon cabin in tp
+you can see flight info comes up
+
+after applying theater preset, the preset panel is not closing in TP whereas it closes for all other presets
